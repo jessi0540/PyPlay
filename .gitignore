@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+.env
+.playwright/
+test-results/
+.lock
