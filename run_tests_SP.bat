@@ -1,6 +1,6 @@
 @echo off
 REM Install dependencies
-pip install -r requirements.txt
+pip install -r requirements_sinPoetry.txt
 
 REM Install Playwright browsers
 playwright install
